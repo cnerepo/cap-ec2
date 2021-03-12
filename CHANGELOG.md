@@ -1,5 +1,10 @@
 # Cap-EC2 changelog
 
+## 1.1.3
+
+* FORKED to cnerepo from original [unmaintained source](https://github.com/forward3d/cap-ec2)
+* Included [YAML loading fix](https://github.com/forward3d/cap-ec2/pull/81)
+
 ## 1.1.2
 
 * Allow using aws-sdk v3 [@magnusvk](https://github.com/magnusvk)

@@ -1,4 +1,7 @@
 # Cap-EC2 changelog
+## 1.2.0
+* Upgrade Ruby version
+* Properly null-check instance values
 
 ## 1.1.3
 

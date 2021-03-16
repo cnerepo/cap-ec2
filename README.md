@@ -1,6 +1,7 @@
-# This repository is no longer maintained.
+# This a CNE fork of an unmaintained library we use for Capistrano deployments
 
-Forward3D has not used cap-ec2 in production for several years, and thus we will no longer be maintaining this.
+We'd like to deprecate this gem and move any necessary code into cne-lib or get off
+of Capistrano entirely, but in the meantime, this fork was the simplest solution.
 
 # Cap-EC2
 
